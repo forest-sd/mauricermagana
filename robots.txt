@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mauricermagana.pages.dev/sitemap.xml
+Sitemap: https://mauricermagana.com/sitemap.xml
